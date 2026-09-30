@@ -1,0 +1,30 @@
+body {
+    background-color: #222;
+}
+
+.calabaza {
+    display: grid;
+    grid-template-columns: repeat(16, 40px);
+    grid-template-rows: repeat(16, 40px);
+}
+
+.pixel {
+    width: 40px;
+    height: 40px;
+}
+
+.amarillo {
+    background-color: #ff7518;
+}
+
+.naranja {
+    background-color: #ec5800;
+}
+
+.oscuro {
+    background-color: #2b2b2b;
+}
+
+.cafe {
+    background-color: #603a39;
+}
